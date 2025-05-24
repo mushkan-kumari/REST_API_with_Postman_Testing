@@ -9,7 +9,9 @@ Testing the functionality of API using Postman.
 
 ## Starting server.js
 
-![Start server.js](https://github.com/mushkan-kumari/REST_API_with_Postman_Testing/blob/d14b3e661e9768197d5e594c8a955261b584d590/REST%20API%20screenshots/server_start.JPG)
+```
+npm start
+```
 
 # Postman Testing (CRUD OPERATIONS)
 
